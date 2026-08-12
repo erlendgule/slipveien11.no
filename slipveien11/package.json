@@ -1,0 +1,9 @@
+{
+  "name": "slipveien11",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Fellesside for Det lille huset i Slipveien i Bud - kalender fra FINN og Airbnb",
+  "scripts": {
+    "build": "echo \"Statisk side - ingen bygging nodvendig\""
+  }
+}
